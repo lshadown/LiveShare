@@ -25,6 +25,7 @@ namespace LiveShare
         public MainPage()
         {
             this.InitializeComponent();
+            //test
         }
     }
 }
