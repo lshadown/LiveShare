@@ -4,5 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:LiveShare"
     RequestedTheme="Light">
-
+    <Application.Resources>
+        <SolidColorBrush Color="#bb2530" x:Key="BackgroundColor"/>
+    </Application.Resources>
 </Application>
